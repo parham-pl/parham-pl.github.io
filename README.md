@@ -1,2 +1,3 @@
 # parham-pl.github.io
-remote_theme: Cayman
+theme: minima
+remote_theme: benbalter/retlab
